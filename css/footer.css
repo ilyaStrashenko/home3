@@ -1,0 +1,31 @@
+.footer {
+  
+}
+
+.footer__container {
+  
+   display: flex;
+   justify-content: space-around;
+   padding: 200px 0 0 0 ;
+}
+.footer__column {
+}
+.footer__list {
+
+}
+.footer__link {
+   cursor: pointer;
+   padding: 10px 0 0 0;
+}
+.footer__link ul li{
+   list-style: none;
+}
+.footer__item {
+   color: rgb(143, 142, 142);
+}
+@media (max-width:767px){
+   .footer{
+     
+      max-width: 390px;
+   }
+}
